@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AStarAgent.java&apos; to &apos;PA1/src&apos;&#x0A;- Original project: &apos;programming-assignments&apos;&#x0A;- Destination element: &apos;PA1/src&apos;&#x0A;- Original element: &apos;AStarAgent.java&apos;" description="Copy file" destination="=PA1/src" element1="PA1/src/PA1/AStarAgent.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1677553242268" units="0" version="1.0"/>
+</session>

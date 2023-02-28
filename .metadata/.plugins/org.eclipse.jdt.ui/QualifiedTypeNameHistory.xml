@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="edu.cwru.sepia.environment.model.state.ResourceNode.ResourceView"/>
+    <fullyQualifiedTypeName name="edu.cwru.sepia.action.Action"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="edu.cwru.sepia.environment.model.state.ResourceNode.Type"/>
+    <fullyQualifiedTypeName name="edu.cwru.sepia.action.ActionType"/>
+    <fullyQualifiedTypeName name="edu.cwru.sepia.action.TargetedAction"/>
+</qualifiedTypeNameHistroy>
